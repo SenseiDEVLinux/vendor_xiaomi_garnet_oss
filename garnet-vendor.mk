@@ -35,8 +35,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/garnet/proprietary/vendor/etc/acdbdata/nn_vad_models/fai__3.0.0_0.0__eai_1.36_enpu2.pmd:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/nn_vad_models/fai__3.0.0_0.0__eai_1.36_enpu2.pmd \
     vendor/xiaomi/garnet/proprietary/vendor/etc/acdbdata/parrot_qrd/Mise_acdb_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/parrot_qrd/Mise_acdb_cal.acdb \
     vendor/xiaomi/garnet/proprietary/vendor/etc/acdbdata/parrot_qrd/Mise_workspaceFileXml.qwsp:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/parrot_qrd/Mise_workspaceFileXml.qwsp \
-    vendor/xiaomi/garnet/proprietary/vendor/etc/acdbdata/parrot_qrd/foursemi/Mise_acdb_cal_fs.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/parrot_qrd/foursemi/Mise_acdb_cal_fs.acdb \
-    vendor/xiaomi/garnet/proprietary/vendor/etc/acdbdata/parrot_qrd/foursemi/Mise_workspaceFileXml_fs.qwsp:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/parrot_qrd/foursemi/Mise_workspaceFileXml_fs.qwsp \
     vendor/xiaomi/garnet/proprietary/vendor/etc/apdr.conf:$(TARGET_COPY_OUT_VENDOR)/etc/apdr.conf \
     vendor/xiaomi/garnet/proprietary/vendor/etc/audio_policy_engine_configuration.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio_policy_engine_configuration.xml \
     vendor/xiaomi/garnet/proprietary/vendor/etc/audio_policy_engine_default_stream_volumes.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio_policy_engine_default_stream_volumes.xml \
@@ -869,7 +867,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/garnet/proprietary/vendor/firmware/evass.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/evass.mdt \
     vendor/xiaomi/garnet/proprietary/vendor/firmware/focaltech_ts_fw_GVO.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/focaltech_ts_fw_GVO.bin \
     vendor/xiaomi/garnet/proprietary/vendor/firmware/focaltech_ts_fw_TianMa.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/focaltech_ts_fw_TianMa.bin \
-    vendor/xiaomi/garnet/proprietary/vendor/firmware/fs19xx.fsm:$(TARGET_COPY_OUT_VENDOR)/firmware/fs19xx.fsm \
     vendor/xiaomi/garnet/proprietary/vendor/firmware/gmu_gen70000.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/gmu_gen70000.bin \
     vendor/xiaomi/garnet/proprietary/vendor/firmware/goodix_cfg_group_CSOT.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/goodix_cfg_group_CSOT.bin \
     vendor/xiaomi/garnet/proprietary/vendor/firmware/goodix_firmware_CSOT.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/goodix_firmware_CSOT.bin \
