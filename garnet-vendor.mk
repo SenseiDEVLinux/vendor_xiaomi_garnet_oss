@@ -2152,8 +2152,6 @@ PRODUCT_PACKAGES += \
     qmi_test_mt_client_init_instance \
     qmipriod \
     qms \
-    qrtr-cfg \
-    qrtr-lookup \
     qrtr-ns \
     qseecom_sample_client \
     qseecomd \
