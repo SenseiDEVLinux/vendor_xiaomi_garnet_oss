@@ -1613,6 +1613,7 @@ PRODUCT_PACKAGES += \
     libsdm-disp-vndapis \
     libsdmextension \
     libsdsprpc \
+    libsecureui_svcsock \
     libsensorslog \
     libsfeShiftExtrapolation \
     libshsc \
